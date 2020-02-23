@@ -1,5 +1,5 @@
 # ARTIFICIAL INTELLIGENCE GUIDED TARGETING SYSTEM
--
+
 
 > **NOTE: It requires necessary hardware arrangement to run. Listed Below**
 - Raspberry pi with Sensors (camera, laser etc. )
@@ -31,3 +31,10 @@ For more information about using ATS config refer:
 
 
 > **NOTE: I'll generate more detailed docs if requested**
+
+#REFERENCE PICS
+
+![pic1](./pic1.jpeg)
+![pic2](./pic2.jpeg)
+![pic3](./pic3.jpeg)
+![pic4](./pic4.jpeg)
